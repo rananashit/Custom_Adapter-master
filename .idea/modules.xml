@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CustomContactAdapter.iml" filepath="$PROJECT_DIR$/CustomContactAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Custom_Adapter-master.iml" filepath="$PROJECT_DIR$/.idea/Custom_Adapter-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
